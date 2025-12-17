@@ -1,0 +1,9 @@
+# Python Virtual Environments# Python Virtual Environments (MUST be ignored)
+Trust-net-main/ai-microservices/Liveness-check/liveness-venv/
+Trust-net-main/ai-microservices/OCR-Service/ocr/
+
+# IDE Settings (VS Code configuration)
+.vscode/
+
+# Uploaded Files/Test Data (The test images)
+Trust-net-main/backend/uploads/
